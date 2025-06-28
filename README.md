@@ -20,4 +20,4 @@ This project provides a Bash-based auditing tool to identify AWS EC2 instances t
   sudo apt install jq -y
 
 #result:
-          -[result](./screenshot.png)
+-[result](./Screenshot.png)
